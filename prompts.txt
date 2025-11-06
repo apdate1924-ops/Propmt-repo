@@ -1,7 +1,117 @@
-A photorealistic image of a vintage typewriter on a wooden desk, bathed in warm morning light.
-A minimalist vector logo for a coffee shop named "The Daily Grind," featuring a single coffee bean.
-A surreal oil painting of a whale floating through a sky filled with clouds and stars.
-A cyberpunk city street at night, neon signs reflecting on the wet pavement, a lone figure in a trench coat.
-An ancient, moss-covered library with towering bookshelves that seem to reach the sky.
-A close-up photograph of a honeybee on a vibrant purple flower, capturing the pollen on its legs.
-A fantasy landscape of floating islands connected by glowing magical bridges.
+Prompt: You are a detailed product research assistant tasked with finding the best [product type] that meets the following specific criteria:
+
+Price under $[budget]
+Highly rated by verified customers (4 stars or higher)
+Available for fast delivery
+Include direct purchase or product detail links from major retailers
+
+Research Process:
+1. Initial Research Phase:
+Search top online retailers (Amazon, Best Buy, etc.) and consumer review websites
+Focus on products that match the requested category and specifications
+Filter out results exceeding the given budget
+
+2. Evaluation Criteria:
+Collect and analyze the following details for each recommendation:
+- Price
+- User ratings (average score and number of reviews)
+- Core features (specific to this product type)
+- Delivery speed and shipping options
+- Warranty or return policy
+- Top pros and cons from customer reviews
+- Link to purchase
+
+3. Ranking Method:
+Create a scoring system using these weights:
+- Functionality and key features: 30 points
+- User ratings: 25 points
+- Price (closer to budget max = fewer points): 20 points
+- Delivery speed and availability: 15 points
+- Bonus features or design quality: 10 points
+
+4. Reporting Format:
+Provide your findings in this structure:
+
+<top_recommendations>
+1. Best Overall [Product Type]
+- Brand and Model:
+- Price:
+- Total Score:
+- Link:
+- Key Features:
+- Pros:
+- Cons:
+
+2. Runner-Up [Product Type]
+[Same structure as above]
+</top_recommendations>
+
+5. Final Output Instructions:
+Wrap your full report inside <research_report> tags
+Begin with a short summary of your findings
+Include a brief explanation of your selection methodology
+
+6. Disqualification Criteria:
+Immediately exclude any product that:
+- Exceeds the price limit
+- Has an average rating below 4 stars
+- Has repeated negative reviews about durability, performance, or reliability
+
+---
+
+Lego Emperors
+Emperor [name], crimson and black imperial armor, ruby-studded golden crown, dramatic smirk, as Lego movie, cinematic, rich textures and moody lighting --ar 2:3 --v 7 --stylize 50
+
+---
+
+Compelling Offer Generator
+Prompt: You are an expert offer strategist and direct-response copywriter.
+Generate 3 irresistible offer ideas for a {Product/Service} that helps {Target Audience} who want to {Avoid Problem or Achieve Outcome}.
+
+Each offer should:
+
+Tap into the core pain points, fears, and frustrations of the audience.
+
+Highlight tangible benefits and transformational outcomes.
+
+Clearly show why this offer feels urgent, valuable, and risk-free.
+
+Framework:
+
+Most {Specific Audience} struggle with {Core Problem}.
+This happens because {Tangible Root Cause}, which leads to {Specific Negative Consequence}.
+Eventually, this results in {Ultimate Pain or Limitation}.
+
+That’s why I created {Product/Service Name} — it helps you {Specific Solution}, so you can {Desirable Result}.
+
+Unlike {Common Alternative or Competitor Approach}, this offer focuses on {Unique Mechanism or Advantage}, making it the fastest and easiest way to {Solve Problem or Reach Goal}.
+
+The result? {Specific Positive Outcomes and Emotional Payoff} — all leading to {Ultimate Transformation or Dream State}.
+
+---
+
+Surreal Art
+surreal photograph inspired by Salvador Dalí, featuring symbolic representation of Marlin Monroe, Monroe's melting head dissolves into dreamlike desert landscape, one eye replaced with a dripping pocket watch, her hair is transforming into clouds. Brain-shaped stones lie in the sand, a pink Flamingo appears in the sky, stairs lead to nowhere, long shadows cast across the surreal plain. Soft lighting, hyperrealistic textures, uncanny atmosphere, psychological undertones, subtle references to psychoanalysis and dreams. Shot on ARRI ALEXA 65, 50mm, 400 iso, 8k, Best quality --ar 9:16 --v 7
+
+---
+
+Troubleshoot any error from a screenshot
+Prompt: You are a helpful troubleshooting assistant. I’ll provide a screenshot of an error I'm experiencing. Your job is to:
+
+Identify what tool or platform the error is from (e.g., Google Ads, GA4, etc.)
+
+Analyze the error message and suggest the most likely reasons it's happening
+
+List step-by-step actions I can take to fix the issue
+
+Suggest any helpful links or official documentation if relevant
+
+Here's the screenshot:
+[Upload Screenshot]
+
+Please be clear, concise, and explain it like you're guiding someone who isn't a tech expert.
+
+---
+
+The Addams Family
+[character name] by Tim Burton, tall elegant gothic woman with smooth pale clay-textured skin and flowing jet-black hair, eyes shimmering with faint crimson reflections. Wearing a long, form-fitting black velvet gown with trailing sleeves that melt into smoke. Standing gracefully in a candlelit parlor filled with thorny roses, antique mirrors, and flickering shadows. Cinematic stop-motion claymation aesthetic, deep black and crimson palette with silver highlights, soft fog swirling at her feet, romantic yet haunting atmosphere, highly detailed velvet and glass textures, 8K render. --chaos 10 --ar 9:16 --style raw --v 7 --quality 4
